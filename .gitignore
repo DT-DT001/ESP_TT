@@ -1,0 +1,22 @@
+# ESP-IDF generated build output
+/build/
+/**/build/
+/managed_components/
+/**/managed_components/
+
+# Generated configuration backups and artifacts
+sdkconfig.old
+**/sdkconfig.old
+*.bin
+*.elf
+*.map
+compile_commands.json
+flasher_args.json
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
